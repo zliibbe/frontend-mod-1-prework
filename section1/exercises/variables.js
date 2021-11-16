@@ -23,33 +23,54 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
+var potterCommand = 'Harry Potter mus not return to Hogwarts!'
+console.log(potterCommand)
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = 'Zach';
+var isHungry = false;
+var numberOfPets = 1;
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
-
+  /*I used a string for my first name because that is the clearest way to
+  display it. As the answer to whether or not I am hungry is either yes or no,
+  I decided to make that data type boolean. I made numberOfPets a number
+  because it is the case that the variable name states.
+  */
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
-
+firstName = 'Josh';
+isHungry = true;
+numberOfPets = 2;
+console.log(firstName);
+console.log(isHungry);
+console.log(numberOfPets);
 
 // YOU DO:
 // Using the variables below, log the total number of snacks to the console:
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
+var totalSnacks = healthySnacks + junkFoodSnacks;
+
+console.log(totalSnacks);
+
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
+// Yeah, dawg, it did!
