@@ -1,4 +1,4 @@
-# Front-End Mod 1 Pre-work Guide
+# Front-End Mod 1 Pre-work  
 
 This repository will guide you through the Mod 1 Pre-work for the Front-End program at Turing. **Read this page thoroughly** to find the instructions for getting your computer setup and getting started.
 
@@ -153,7 +153,7 @@ nothing to commit, working tree clean
 From here on out, all the work you do will be in your copy of this repository. Other text you read here might refer to this as the "prework repository" or "frontend prework", and they all refer to your forked copy of this `frontend-mod-1-prework` repository.
 
 ### IMPORTANT NOTE - PLEASE READ CAREFULLY
-Do **NOT** work directly in the Github interface or use the `Edit` button to work directly from the Github version of your prework repository! 
+Do **NOT** work directly in the Github interface or use the `Edit` button to work directly from the Github version of your prework repository!
 
 Instead, add your work in your text editor (Atom) on your local machine (laptop) - your prework involves using `git` to track changes and push your work up to Github. We will cover how to do this in Mod 0 AND we give explicit instructions on how to do this in each section of the prework!
 
