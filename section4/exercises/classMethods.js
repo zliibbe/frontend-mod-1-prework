@@ -42,13 +42,13 @@ class Burrito {
   }
 };
 
-var beanBurrito = new Burrito("beans", "rice", ["salsa", "hot sauce", "cheese", "sour cream"]);
+var tofuBurrito = new Burrito("tofu", "rice", ["salsa", "hot sauce", "cheese", "sour cream"]);
 var chickenBurrito = new Burrito("chicken", "rice", ["salsa", "hot sauce", "cheese", "sour cream"]);
 var beefBurrito = new Burrito("beef", "rice", ["pico de gallo", "cheese", "sour cream"]);
-console.log(beanBurrito, chickenBurrito, beefBurrito);
+console.log(tofuBurrito, chickenBurrito, beefBurrito);
 
-beanBurrito.changeProtein();
-console.log(beanBurrito);
+tofuBurrito.changeProtein();
+console.log(tofuBurrito);
 
 beefBurrito.addTopping();
 chickenBurrito.addTopping();

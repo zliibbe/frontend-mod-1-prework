@@ -28,7 +28,7 @@ if (weather == 'sunny') {
 } else if (weather == 'icy') {
   console.log('yak traks');
 } else{
-  console.log('good to go!');
+  console.log('Good to go!');
 }
 
 /*

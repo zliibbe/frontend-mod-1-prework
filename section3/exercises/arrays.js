@@ -93,7 +93,7 @@ or, array.
 The post itself likely has more complex data, but here's one way we can think about it:
 */
 
-var posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
+var postStrings = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
 
 // YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
 // may be storing data? Come up with 3 examples - they could be from different web applications or
